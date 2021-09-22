@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">BMI</string>
+    <string name="weight">weight</string>
+    <string name="height">height</string>
+    <string name="submit">submit</string>
+
+</resources>
